@@ -1,0 +1,1 @@
+"""AquaAI FastAPI application package."""
